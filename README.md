@@ -1,5 +1,5 @@
 # head-spinning-HTML+CSS+GSAP
-### Minha cara vendo certas pessoas 
+### A seita 
 
 
-![](img/unkno5wn.png)
+![](tenor.gif)
