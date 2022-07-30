@@ -1,5 +1,5 @@
 # head-spinning-HTML+CSS+GSAP
-### Minha Cabeça Girando
+### A seita 
 
 
-![](head-gif.gif)
+![](tenor.gif)
