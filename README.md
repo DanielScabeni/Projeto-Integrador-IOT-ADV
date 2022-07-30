@@ -1,5 +1,5 @@
 # head-spinning-HTML+CSS+GSAP
-### Minha Cabeça Girando
+### Minha cara vendo certas pessoas 
 
 
 ![](img/unkno5wn.png)
